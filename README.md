@@ -41,6 +41,12 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red)
 ![Cloud](https://img.shields.io/badge/Cloud_Security-00599C?style=for-the-badge&logo=icloud&logoColor=white)
 
+
+
+### 🔗 Connect with me:
+[<img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white">](https://tryhackme.com/p/m.nabigh.naufal)
+
+
 ---
 
 ### 📬 Beyond Ordinary:
