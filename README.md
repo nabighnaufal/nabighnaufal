@@ -57,7 +57,7 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 
 
 
-Successfully climbed to Rank 15 on TryHackMe. Consistency is starting to pay off!
+Successfully climbed to Rank 20 on TryHackMe. Consistency is starting to pay off!
 
 <img src="Screenshot%202026-04-03%20220125.png" width="300">
 
@@ -65,12 +65,12 @@ Successfully climbed to Rank 15 on TryHackMe. Consistency is starting to pay off
 
 Officially cleared the Fortinet NSE foundational modules. Building my security basics step by step.
 
-<img src="Screenshot%202026-04-03%20220125.png" width="300">
+<img src="Screenshot%202026-04-03%20220125.png" width="300"><img src="Screenshot%202026-03-29%20144759.png" width="300">
 
 
 
 A look back at my progress. Every small step counts toward the bigger goal.
 
-<img src="Screenshot%202026-03-29%20144759.png" width="300">
+<img src="Screenshot%202026-04-03%20220125.png" width="300">
 
 ---
