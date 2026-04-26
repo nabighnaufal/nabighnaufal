@@ -46,3 +46,17 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 
 - **Location:** Dumai, Riau, Indonesia 🇮🇩 (Ready for the World 🌍)
 - **Mindset:** Consistent, Focused, and Unstoppable.
+- ---
+
+### 🏛️ The Archive: My Security Chronicles
+
+> "Consistency is the DNA of mastery."
+
+#### ⚔️ Milestones & Achievements
+*Documenting every breakthrough, every rank, and every lesson learned on my path to the Cloud.*
+
+![Rank TryHackMe](Screenshot%202026-03-29%20160316.png)
+![Fortinet Progress](Screenshot%202026-04-03%20220125.png)
+![Rank History](Screenshot%202026-03-29%20144759.png)
+
+---
