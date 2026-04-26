@@ -58,7 +58,7 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 *Documenting every breakthrough, every rank, and every lesson learned on my path to the Cloud.*
 
 
- ### 📅 Years 1 (2026 - age 14)
+ # 📅 Years 1 (2026 - age 14)
 
 
 
