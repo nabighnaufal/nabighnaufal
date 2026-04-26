@@ -52,7 +52,7 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 ### 📬 Beyond Ordinary:
 *“The world will see, the world will know—I am not an ordinary soul.”*
 
-- **Location:** Dumai, Riau, Indonesia 🇮🇩 (Ready for the World 🌍)
+- **Location:** Riau, Indonesia 🇮🇩 (Ready for the World 🌍)
 - **Mindset:** Consistent, Focused, and Unstoppable.
 - ---
 
