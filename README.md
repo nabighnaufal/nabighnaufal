@@ -29,10 +29,14 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 
 ### 📈 Roadmap to Greatness
 - [x] 🔥 51+ Days Consistent Learning Streak (Updating Daily)
-- [ ] Complete Fortinet NSE Certification
+- [ ] Complete Fortinet NSE 1 Certification
+- [ ] Complete Fortinet NSE 2 Certification
+- [ ]  Complete Fortinet NSE 3 Certification
 - [ ] Achieve International Security Credentials (CompTIA/AWS/Azure)
 - [ ] Deploy Global Remote Security Solutions
-
+- [x] Climbed to rank 10 on tryhackme 🔥
+- [ ] Climbed to rank 5 on tryhackme 📈
+- [ ] Climbed to rank 1 on tryhackme 🔥
 ---
 
 ### 🛠️ Tech Stack & Tools:
@@ -64,6 +68,17 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 *Documenting every breakthrough, every rank, and every lesson learned on my path to the Cloud.*
 
 
+
+## From Ground Zero to Cloud Hero. 🚀 Building my path to become a Cloud Security Architect, one commit at a time. The journey is long, but the destination is worth the grind. 🛡️ 
+
+---
+
+### 🔄 Always Evolving: This profile is a live reflection of my daily grind. Check back often to see my growth in real-time.
+
+---
+
+
+
  # 📅 Years 1 (2026 - Age 14)
 
 #### 25 Maret 2026
@@ -88,5 +103,17 @@ Successfully climbed to Rank 20 on TryHackMe. Consistency is starting to pay off
 A look back at my progress. Every small step counts toward the bigger goal.
 
 <img src="Screenshot%202026-04-03%20220125.png" width="300">
+
+
+
+#### 26 April 2026
+
+
+Today, 26 April 2026, i'am Successfully climbed to rank 10 on tryhackme, consistency is the key! 
+
+
+<img src="rank%2010%20tryhackme.jpg?raw=true" width="300">
+
+
 
 ---
