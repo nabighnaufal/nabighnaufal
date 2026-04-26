@@ -55,11 +55,17 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 #### ⚔️ Milestones & Achievements
 *Documenting every breakthrough, every rank, and every lesson learned on my path to the Cloud.*
 
+
+
 Successfully climbed to Rank 15 on TryHackMe. Consistency is starting to pay off!
 <img src="Screenshot%202026-03-29%20160316.png" width="300" alt="Rank TryHackMe">
 
+
+
 Officially cleared the Fortinet NSE foundational modules. Building my security basics step by step.
 <img src="Screenshot%202026-04-03%20220125.png" width="300" alt="Fortinet Progress">
+
+
 
 A look back at my progress. Every small step counts toward the bigger goal.
 <img src="Screenshot%202026-03-29%20144759.png" width="300" alt="Rank History">
