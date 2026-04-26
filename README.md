@@ -59,7 +59,7 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 
 Successfully climbed to Rank 20 on TryHackMe. Consistency is starting to pay off!
 
-<img src="Screenshot%202026-04-03%20220125.png" width="300">
+<img src="Screenshot 2026-03-29 160316.png" width="300">
 
 
 
