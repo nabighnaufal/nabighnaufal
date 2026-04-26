@@ -116,4 +116,21 @@ Today, 26 April 2026, i'am Successfully climbed to rank 10 on tryhackme, consist
 
 
 
+#### 27 April 2026
+
+
+today, i focused on mastering wordlists to simulate real-world brute-force attacks.
+
+- understanding how to customize these lists is crucial for cloud security architect, to enforce stronger identity and Access       Management policies
+
+- utilizing hydra: learned how to leverage a industry-standard wordlist to test for common password vulnerabilities.
+
+- custom wordlist generation: practiced creating targeted wordlist is more efficient than using a blind wordlist.
+
+- optimization: configured hydra threads and task limits to balance speed and stealth during auditing
+
+ #### note: efficiency is not about trying everything, is about trying the right thing, by mastering wordlist management, i'm learning how to better protect user credentials from automated threats
+
+
+
 ---
