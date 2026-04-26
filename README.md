@@ -60,6 +60,15 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 
  # 📅 Years 1 (2026 - Age 14)
 
+#### 25 Maret 2026
+
+
+Officially cleared the Fortinet NSE foundational modules. Building my security basics step by step.
+
+<img src="Screenshot%202026-03-29%20144759.png" width="300">
+
+
+#### 29 Maret 2026
 
 
 Successfully climbed to Rank 20 on TryHackMe. Consistency is starting to pay off!
@@ -67,11 +76,7 @@ Successfully climbed to Rank 20 on TryHackMe. Consistency is starting to pay off
 <img src="Screenshot 2026-03-29 160316.png" width="300">
 
 
-
-Officially cleared the Fortinet NSE foundational modules. Building my security basics step by step.
-
-<img src="Screenshot%202026-03-29%20144759.png" width="300">
-
+#### 3 April 2026
 
 
 A look back at my progress. Every small step counts toward the bigger goal.
