@@ -55,8 +55,8 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 #### ⚔️ Milestones & Achievements
 *Documenting every breakthrough, every rank, and every lesson learned on my path to the Cloud.*
 
-![Rank TryHackMe](Screenshot%202026-03-29%20160316.png)
-![Fortinet Progress](Screenshot%202026-04-03%20220125.png)
-![Rank History](Screenshot%202026-03-29%20144759.png)
+<img src="Screenshot%202026-03-29%20160316.png" width="300" alt="Rank TryHackMe">
+<img src="Screenshot%202026-04-03%20220125.png" width="300" alt="Fortinet Progress">
+<img src="Screenshot%202026-03-29%20144759.png" width="300" alt="Rank History">
 
 ---
