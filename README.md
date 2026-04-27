@@ -129,7 +129,16 @@ today, i focused on mastering wordlists to simulate real-world brute-force attac
 
 - optimization: configured hydra threads and task limits to balance speed and stealth during auditing
 
- #### note: efficiency is not about trying everything, is about trying the right thing, by mastering wordlist management, i'm learning how to better protect user credentials from automated threats
+ #### note: efficiency is not about trying everything, is about trying the right thing, by mastering wordlist management, i'm learning how to better protect user credentials from automated threats.
+
+
+and I am also studying Fortinet NSE to learn about:
+
+- Authentication: How to login safely (SSO, MFA, etc).
+
+- Access Control: How to manage who can enter the network.
+
+- Network Security: Using NAC and Device Profiling to block threats
 
 
 
