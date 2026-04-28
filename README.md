@@ -142,4 +142,23 @@ and I am also studying Fortinet NSE to learn about:
 
 
 
+
+#### 28 April 2026
+
+today, i learned how to investigate a cyber attack using linux terminal on tryhackme.
+
+what i did:
+
+- analyzed log: checked firewall, VPN, and IDS logs.
+
+- tracked hacker: found a attacker doing port scanning and VPN Brute-Force
+
+- detected breaches: identified lateral Movement (SMB/445) and C2 beaconing.
+
+- data leaks: Caught a Data Exfiltration attempt via HTTP POST.
+
+
+tools i used: cat, grep, cut, uniq, sort.
+
+
 ---
