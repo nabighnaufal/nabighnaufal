@@ -28,7 +28,7 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 ---
 
 ### 📈 Roadmap to Greatness
-- [x] 🔥 55+ Days Consistent Learning Streak (Updating Daily)
+- [x] 🔥 56+ Days Consistent Learning Streak (Updating Daily)
 - [ ] Complete Fortinet NSE 1 Certification
 - [ ] Complete Fortinet NSE 2 Certification
 - [ ]  Complete Fortinet NSE 3 Certification
@@ -159,6 +159,14 @@ what i did:
 
 
 tools i used: cat, grep, cut, uniq, sort.
+
+
+
+#### 1 May 2026
+
+
+Currently on a brief "Screen Break" to rest my eyes. Still keeping the TryHackMe streak alive with daily check-ins, but skipping the heavy labs for a few days. Be back soon!
+
 
 
 ---
