@@ -28,7 +28,7 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 ---
 
 ### 📈 Roadmap to Greatness
-- [x] 🔥 58+ Days Consistent Learning Streak (Updating Daily)
+- [x] 🔥 59+ Days Consistent Learning Streak (Updating Daily)
 - [ ] Complete Fortinet NSE 1 Certification
 - [ ] Complete Fortinet NSE 2 Certification
 - [ ]  Complete Fortinet NSE 3 Certification
@@ -182,7 +182,7 @@ today im learned about snort module.
 what im learning:
 
 
-- how tu use snort
+- how to use snort
 
 
 - IDS and IPS
@@ -196,6 +196,15 @@ what im learning:
 
 
 little progress will be a big result one day
+
+
+4 May 2026
+
+
+
+Currently on a 6-month mission: Mastering Nmap in lubuntu to 100% completion.
+
+
 
 
 ---
