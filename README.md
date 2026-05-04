@@ -84,7 +84,7 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 #### 25 Maret 2026
 
 
-Officially cleared the Fortinet NSE foundational modules. Building my security basics step by step.
+#### Officially cleared the Fortinet NSE foundational modules. Building my security basics step by step.
 
 <img src="Screenshot%202026-03-29%20144759.png" width="300">
 
@@ -92,7 +92,7 @@ Officially cleared the Fortinet NSE foundational modules. Building my security b
 #### 29 Maret 2026
 
 
-Successfully climbed to Rank 20 on TryHackMe. Consistency is starting to pay off!
+#### Successfully climbed to Rank 20 on TryHackMe. Consistency is starting to pay off!
 
 <img src="Screenshot 2026-03-29 160316.png" width="300">
 
@@ -100,7 +100,7 @@ Successfully climbed to Rank 20 on TryHackMe. Consistency is starting to pay off
 #### 3 April 2026
 
 
-A look back at my progress. Every small step counts toward the bigger goal.
+#### A look back at my progress. Every small step counts toward the bigger goal.
 
 <img src="Screenshot%202026-04-03%20220125.png" width="300">
 
@@ -109,7 +109,7 @@ A look back at my progress. Every small step counts toward the bigger goal.
 #### 26 April 2026
 
 
-Today, 26 April 2026, i'am Successfully climbed to rank 10 on tryhackme, consistency is the key! 
+#### Today, 26 April 2026, i'am Successfully climbed to rank 10 on tryhackme, consistency is the key! 
 
 
 <img src="rank%2010%20tryhackme.jpg?raw=true" width="300">
@@ -119,7 +119,7 @@ Today, 26 April 2026, i'am Successfully climbed to rank 10 on tryhackme, consist
 #### 27 April 2026
 
 
-today, i focused on mastering wordlists to simulate real-world brute-force attacks.
+#### today, i focused on mastering wordlists to simulate real-world brute-force attacks.
 
 - understanding how to customize these lists is crucial for cloud security architect, to enforce stronger identity and Access       Management policies
 
@@ -132,7 +132,7 @@ today, i focused on mastering wordlists to simulate real-world brute-force attac
  #### note: efficiency is not about trying everything, is about trying the right thing, by mastering wordlist management, i'm learning how to better protect user credentials from automated threats.
 
 
-and I am also studying Fortinet NSE to learn about:
+#### and I am also studying Fortinet NSE to learn about:
 
 - Authentication: How to login safely (SSO, MFA, etc).
 
@@ -145,9 +145,9 @@ and I am also studying Fortinet NSE to learn about:
 
 #### 28 April 2026
 
-today, i learned how to investigate a cyber attack using linux terminal on tryhackme.
+#### today, i learned how to investigate a cyber attack using linux terminal on tryhackme.
 
-what i did:
+#### what i did:
 
 - analyzed log: checked firewall, VPN, and IDS logs.
 
@@ -158,14 +158,14 @@ what i did:
 - data leaks: Caught a Data Exfiltration attempt via HTTP POST.
 
 
-tools i used: cat, grep, cut, uniq, sort.
+#### tools i used: cat, grep, cut, uniq, sort.
 
 
 
 #### 1 May 2026
 
 
-Currently on a brief "Screen Break" to rest my eyes. Still keeping the TryHackMe streak alive with daily check-ins, but skipping the heavy labs for a few days. Be back soon!
+#### Currently on a brief "Screen Break" to rest my eyes. Still keeping the TryHackMe streak alive with daily check-ins, but skipping the heavy labs for a few days. Be back soon!
 
 
 
@@ -173,13 +173,13 @@ Currently on a brief "Screen Break" to rest my eyes. Still keeping the TryHackMe
 #### 2 May 2026
 
 
-i'm back from my rest and start learning on tryhackme again
+#### i'm back from my rest and start learning on tryhackme again
 
 
-today im learned about snort module.
+#### today im learned about snort module.
 
 
-what im learning:
+#### what im learning:
 
 
 - how to use snort
@@ -195,14 +195,21 @@ what im learning:
 
 
 
-little progress will be a big result one day
+#### little progress will be a big result one day
 
 
-4 May 2026
+#### 4 May 2026
 
 
 
-Currently on a 6-month mission: Mastering Nmap in lubuntu to 100% completion.
+#### Currently on a 6-month mission: -  Mastering Nmap in lubuntu to 100% completion.
+
+#### - And Focus on my new Network & Cyber Security books.
+
+
+#### Rooting for the future!
+
+
 
 
 
