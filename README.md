@@ -28,7 +28,7 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 ---
 
 ### 📈 Roadmap to Greatness
-- [x] 🔥 81 Days Consistent Learning Streak (Updating Daily)
+- [x] 🔥 82 Days Consistent Learning Streak (Updating Daily)
 - [ ] Complete Fortinet NSE 1 Certification
 - [ ] Complete Fortinet NSE 2 Certification
 - [ ]  Complete Fortinet NSE 3 Certification
@@ -208,6 +208,16 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 
 
 #### Rooting for the future!
+
+
+
+#### 27 May 2026
+
+
+
+#### Learned how to "detecting web attacks" on tryhackme 
+
+#### using Wireshark
 
 
 
