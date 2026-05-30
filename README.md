@@ -20,7 +20,7 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 
 ### 🛠️ What I'm Mastering Right Now:
 - 💻 **Operating Systems:** Advanced Linux & **Lubuntu** customization.
-- 🧪 **Cybersecurity:** High-intensity training on **TryHackMe** (Active Streak: 51 Days! 🔥).
+- 🧪 **Cybersecurity:** High-intensity training on **TryHackMe**.
 - 📜 **Professional Training:** Currently finishing **Fortinet NSE** certification path.
 - 🌐 **Networking:** Deep diving into the veins of the internet.
 - 🐍 **Python:** Automating security tasks and data analysis.
