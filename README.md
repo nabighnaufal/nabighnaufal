@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 The Mission:
-I am not just learning; I am preparing for a global stage. My journey is fueled by a silent promise and a 51-day (and counting!) learning streak. I aim to master the digital fortress and work globally as a Remote Cloud Security Expert.
+I am not just learning; I am preparing for a global stage. My journey is fueled by a silent promise and I aim to master the digital fortress and work globally as a Remote Cloud Security Expert.
 
 - 🌍 **Goal:** To secure international servers and earn world-class security certifications.
 - 🎓 **Roadmap:** Politeknik Caltex Riau (PCR) ➡️ International Certification ➡️ Global Cloud Security Architect.
