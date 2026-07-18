@@ -28,7 +28,7 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 ---
 
 ### 📈 Roadmap to Greatness
-- [x] 🔥 133 Days Consistent Learning Streak (Updating Daily)
+- [x] 🔥 134 Days Consistent Learning Streak (Updating Daily)
 - [ ] Complete Fortinet NSE 1 Certification
 - [ ] Complete Fortinet NSE 2 Certification
 - [ ]  Complete Fortinet NSE 3 Certification
