@@ -28,8 +28,7 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 ---
 
 ### 📈 Roadmap to Greatness
-- [x] 🔥 152 Days Consistent Learning Streak (Updating Daily)
-- [ ] Complete Fortinet NSE 1 Certification
+- [x] Complete Fortinet NSE 1 Certification
 - [ ] Complete Fortinet NSE 2 Certification
 - [ ]  Complete Fortinet NSE 3 Certification
 - [ ] Achieve International Security Credentials (CompTIA/AWS/Azure)
@@ -198,16 +197,6 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 #### little progress will be a big result one day
 
 
-#### 4 May 2026
-
-
-
-#### Currently on a 6-month mission: -  Mastering Nmap in lubuntu to 100% completion.
-
-#### - And Focus on my new Network & Cyber Security books.
-
-
-#### Rooting for the future!
 
 
 
@@ -229,6 +218,25 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 #### I'm still here 👌
 
 
+
+
+#### 28 august 2026
+
+
+
+#### i am back and look what i got!:
+
+
+
+<img src="Screenshot%202026-08-28%20184621.png" width="600">
+
+
+
+#### i hope with this small achievement, i can more learn about IT and become even better.
+
+
+
+####Get stronger every time💪
 
 
 
