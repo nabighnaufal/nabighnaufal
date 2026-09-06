@@ -258,11 +258,13 @@ ONE!
 
 
 TWO!
-<img src="https://github.com/nabighnaufal/nabighnaufal/blob/main/Fortinet%20NSE%202%20Certified%20in%20Cybersecurity.pdf" width="600">
-<img src="https://github.com/nabighnaufal/nabighnaufal/blob/main/2378324346MN.pdf" width="400">
+
+<img src="https://github.com/nabighnaufal/nabighnaufal/blob/main/Screenshot%202026-09-07%20004041.png" width="400">
+<img src="https://github.com/nabighnaufal/nabighnaufal/blob/main/Screenshot%202026-09-07%20004018.png" width="600">
+
 
 THREE!
-<img src="https://github.com/nabighnaufal/nabighnaufal/blob/main/THM-Z62BPCFBRW.pdf" width="400">
+<img src="https://github.com/nabighnaufal/nabighnaufal/blob/main/Screenshot%202026-09-07%20004116.png" width="400">
 
 
 ---
