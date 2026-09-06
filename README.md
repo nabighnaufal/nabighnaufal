@@ -13,7 +13,7 @@
 I am not just learning; I am preparing for a global stage. My journey is fueled by a silent promise and I aim to master the digital fortress and work globally as a Remote Cloud Security Expert.
 
 - 🌍 **Goal:** To secure international servers and earn world-class security certifications.
-- 🎓 **Roadmap:** Politeknik Caltex Riau (PCR) ➡️ International Certification ➡️ Global Cloud Security Architect.
+- 🎓 **Roadmap:** Politeknik Caltex Riau (PCR) ➡️ International Certification ➡️ Global Cloud Security Engineer.
 - ⚡ **Current Status:** Doing more than what meets the eye. Working in silence, letting the results make the noise.
 
 ---
@@ -44,7 +44,7 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red)
 ![Cloud](https://img.shields.io/badge/Cloud_Security-00599C?style=for-the-badge&logo=icloud&logoColor=white)
-
+![Fortinet](https://shields.io)
 
 
 ### 🔗 Connect with me:
@@ -69,7 +69,7 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 
 
 
-## From Ground Zero to Cloud Hero. 🚀 Building my path to become a Cloud Security Architect, one commit at a time. The journey is long, but the destination is worth the grind. 🛡️ 
+## From Ground Zero to Cloud Hero. 🚀 Building my path to become a Cloud Security Engineer, one commit at a time. The journey is long, but the destination is worth the grind. 🛡️ 
 
 ---
 
@@ -275,6 +275,7 @@ TWO!
 
 
 THREE!
+
 <img src="https://github.com/nabighnaufal/nabighnaufal/blob/main/Screenshot%202026-09-07%20004116.png" width="600">
 
 ------
