@@ -86,7 +86,9 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 
 #### Officially cleared the Fortinet NSE foundational modules. Building my security basics step by step.
 
-<img src="Screenshot%202026-03-29%20144759.png" width="300">
+<img src="Screenshot%202026-03-29%20144759.png" width="600">
+
+-----
 
 
 #### 29 Maret 2026
@@ -94,7 +96,9 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 
 #### Successfully climbed to Rank 20 on TryHackMe. Consistency is starting to pay off!
 
-<img src="Screenshot 2026-03-29 160316.png" width="300">
+<img src="Screenshot 2026-03-29 160316.png" width="600">
+
+-----
 
 
 #### 3 April 2026
@@ -102,7 +106,9 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 
 #### A look back at my progress. Every small step counts toward the bigger goal.
 
-<img src="Screenshot%202026-04-03%20220125.png" width="300">
+<img src="Screenshot%202026-04-03%20220125.png" width="600">
+
+-----
 
 
 
@@ -112,8 +118,9 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 #### Today, 26 April 2026, i'am Successfully climbed to rank 10 on tryhackme, consistency is the key! 
 
 
-<img src="rank%2010%20tryhackme.jpg?raw=true" width="300">
+<img src="rank%2010%20tryhackme.jpg?raw=true" width="600">
 
+-----
 
 
 #### 27 April 2026
@@ -140,6 +147,8 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 
 - Network Security: Using NAC and Device Profiling to block threats
 
+-----
+
 
 
 
@@ -161,13 +170,15 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 #### tools i used: cat, grep, cut, uniq, sort.
 
 
+-----
+
 
 #### 1 May 2026
 
 
 #### Currently on a brief "Screen Break" to rest my eyes. Still keeping the TryHackMe streak alive with daily check-ins, but skipping the heavy labs for a few days. Be back soon!
 
-
+-----
 
 
 #### 2 May 2026
@@ -198,7 +209,7 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 #### little progress will be a big result one day
 
 
-
+-----
 
 
 #### 27 May 2026
@@ -209,7 +220,7 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 
 #### using Wireshark
 
-
+-----
 
 #### 02 July 2026
 
@@ -219,7 +230,7 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 #### I'm still here 👌
 
 
-
+-----
 
 #### 28 august 2026
 
@@ -239,7 +250,7 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 
 #### Get stronger every time💪
 
-
+------
 
 #### 07 September 2026
 
@@ -264,7 +275,7 @@ TWO!
 
 
 THREE!
-<img src="https://github.com/nabighnaufal/nabighnaufal/blob/main/Screenshot%202026-09-07%20004116.png" width="400">
+<img src="https://github.com/nabighnaufal/nabighnaufal/blob/main/Screenshot%202026-09-07%20004116.png" width="600">
 
-
+------
 ---
