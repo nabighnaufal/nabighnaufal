@@ -1,6 +1,6 @@
 # Hi, I'm M. Nabigh Naufal 👋
 
-### 🛡️ Aspiring Cloud Security Architect
+### 🛡️ Aspiring Cloud Security Engineer
   🚀 **Mission Started:** Feb 28, 2026 (Age 14) | ⚡ **Current Age:** 15 Years Old
   
 **Building a legacy, one line of code at a time.**
