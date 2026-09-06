@@ -1,7 +1,7 @@
 # Hi, I'm M. Nabigh Naufal 👋
 
 ### 🛡️ Aspiring Cloud Security Architect
-  🚀 **Mission Started:** Feb 28, 2026 (Age 14) | ⚡ **Current Age:** 14 Years Old
+  🚀 **Mission Started:** Feb 28, 2026 (Age 14) | ⚡ **Current Age:** 15 Years Old
   
 **Building a legacy, one line of code at a time.**
 
@@ -29,8 +29,9 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 
 ### 📈 Roadmap to Greatness
 - [x] Complete Fortinet NSE 1 Certification
-- [ ] Complete Fortinet NSE 2 Certification
-- [ ]  Complete Fortinet NSE 3 Certification
+- [x] Complete Fortinet NSE 2 Certification
+- [ ] Complete Fortinet NSE 3 Certification
+- [x] Complete tryhackme Certification
 - [ ] Achieve International Security Credentials (CompTIA/AWS/Azure)
 - [ ] Deploy Global Remote Security Solutions
 - [x] Climbed to rank 10 on tryhackme 🔥
