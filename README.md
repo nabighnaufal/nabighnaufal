@@ -241,4 +241,14 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 
 
 
+#### 07 September 2026
+
+#### I'm ranked 5th on TRYHACKME!
+
+
+#### nice👌
+
+
+
+
 ---
