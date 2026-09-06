@@ -28,14 +28,14 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 ---
 
 ### 📈 Roadmap to Greatness
-- [x] Complete Fortinet NSE 1 Certification
-- [x] Complete Fortinet NSE 2 Certification
+- [x] Complete Fortinet NSE 1 Certification - august/08/2026
+- [x] Complete Fortinet NSE 2 Certification - september/06/2026
 - [ ] Complete Fortinet NSE 3 Certification
-- [x] Complete tryhackme Certification
+- [x] Complete tryhackme Certification - september/06/2026
 - [ ] Achieve International Security Credentials (CompTIA/AWS/Azure)
 - [ ] Deploy Global Remote Security Solutions
-- [x] Climbed to rank 10 on tryhackme 🔥
-- [x] Climbed to rank 5 on tryhackme 📈
+- [x] Climbed to rank 10 on tryhackme 🔥 - april/26/2026
+- [x] Climbed to rank 5 on tryhackme 📈 - september/06/2026
 - [ ] Climbed to rank 1 on tryhackme 🔥
 ---
 
