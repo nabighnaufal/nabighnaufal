@@ -35,7 +35,7 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 - [ ] Achieve International Security Credentials (CompTIA/AWS/Azure)
 - [ ] Deploy Global Remote Security Solutions
 - [x] Climbed to rank 10 on tryhackme 🔥
-- [ ] Climbed to rank 5 on tryhackme 📈
+- [x] Climbed to rank 5 on tryhackme 📈
 - [ ] Climbed to rank 1 on tryhackme 🔥
 ---
 
