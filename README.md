@@ -44,7 +44,7 @@ I am not just learning; I am preparing for a global stage. My journey is fueled 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red)
 ![Cloud](https://img.shields.io/badge/Cloud_Security-00599C?style=for-the-badge&logo=icloud&logoColor=white)
-![Fortinet](https://shields.io)
+![Fortinet](https://img.shields.io/badge/Fortinet-D81C25?style=for-the-badge&logo=fortinet&logoColor=white)
 
 
 ### 🔗 Connect with me:
