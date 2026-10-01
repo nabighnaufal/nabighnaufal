@@ -278,5 +278,11 @@ THREE!
 
 <img src="https://github.com/nabighnaufal/nabighnaufal/blob/main/Screenshot%202026-09-07%20004116.png" width="600">
 
+
+#### 01 October 2026
+
+#### i have successfully obtained my NSE 3 certification now
+
+<img src="https://https://github.com/nabighnaufal/nabighnaufal/blob/main/Screenshot%202026-10-02%20004344.png" width="600">
 ------
 ---
