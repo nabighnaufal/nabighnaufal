@@ -283,7 +283,11 @@ THREE!
 
 #### i have successfully obtained my NSE 3 certification now
 
+#### and Tryhackme Certification too.
+
 <img src="https://github.com/nabighnaufal/nabighnaufal/blob/main/Screenshot%202026-10-02%20004344.png" width="600">
+
+<img src="https://github.com/nabighnaufal/nabighnaufal/blob/main/Screenshot%202026-10-02%20005720.png" width="600">
 
 LET'S focus on AWS now..💪
 
