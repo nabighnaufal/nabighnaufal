@@ -283,6 +283,6 @@ THREE!
 
 #### i have successfully obtained my NSE 3 certification now
 
-<img src="https://https://github.com/nabighnaufal/nabighnaufal/blob/main/Screenshot%202026-10-02%20004344.png" width="600">
+<img src="https://github.com/nabighnaufal/nabighnaufal/blob/main/Screenshot%202026-10-02%20004344.png" width="600">
 ------
 ---
